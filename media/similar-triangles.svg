@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="275" viewBox="0 0 760 275">
+  <rect width="760" height="275" rx="16" fill="#12202c"/>
+  <g fill="#18404a" stroke="#80e3db" stroke-width="3">
+    <path d="M92 195V111l112 84Z"/><path d="M380 195V27l224 168Z"/>
+    <path d="M92 182h13v13M380 182h13v13" fill="none"/>
+  </g>
+  <g fill="#d7f5f5" font-family="system-ui" font-size="20">
+    <text x="64" y="157">3</text><text x="140" y="225">4</text><text x="155" y="146">5</text>
+    <text x="350" y="112">6</text><text x="482" y="225">8</text><text x="507" y="102">10</text>
+    <text x="258" y="159">× 2 →</text>
+  </g>
+</svg>
